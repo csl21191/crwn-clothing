@@ -4,7 +4,7 @@ import CollectionPreview from '../../components/collection-preview/collection-pr
 
 import './shoppage.styles.scss';
 
-import SHOP_DATA from './shop.data';
+import SHOP_DATA from './shop.data.js';
 
 class ShopPage extends Component {
     constructor(props) {
